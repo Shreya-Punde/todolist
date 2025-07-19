@@ -12,6 +12,7 @@ const page = () => {
     console.log(mainTask)
     settitle("")
     setdesc("")
+    console.log("Task added successfully")
 
   }
 
